@@ -17,3 +17,6 @@ This is the purpose
 You need to work to deploy this code
 
 ## How to contribute
+
+## Copyright
+Copyright 2018
