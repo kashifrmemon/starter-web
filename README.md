@@ -5,6 +5,8 @@ together
 
 ## Introduction
 
+This introduces the Git and GitHub
+
 ## Purpose
 
 Sample website with plenty of files for demos
