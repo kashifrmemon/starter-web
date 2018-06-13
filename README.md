@@ -18,5 +18,7 @@ You need to work to deploy this code
 
 ## How to contribute
 
+Plesae fork this repo and then issue Pull request
+
 ## Copyright
 Copyright 2018
